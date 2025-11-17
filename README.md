@@ -37,9 +37,7 @@ There are two ways to get the application running, depending on your needs.
 
 ### For Users
 
-1.  Navigate to the `bin/Release` folder in the project directory.
-2.  (Recommended) Copy the entire `Release` folder to a convenient location on your computer (e.g., your Desktop).
-3.  Double-click the `ReviewTracker.exe` file to run the application.
+Download the last Release!
 
 *For the best experience, create a shortcut to the `.exe` file on your Desktop or pin it to your Start Menu.*
 
@@ -48,11 +46,11 @@ There are two ways to get the application running, depending on your needs.
 If you want to modify or build the project from the source code:
 
 1.  **Prerequisites:**
-    -   [.NET SDK](https://dotnet.microsoft.com/download) (version matching the project)
-    -   Visual Studio 2019 or later
+    -   [.NET SDK](https://dotnet.microsoft.com/download) (8)
+    -   Visual Studio 2022
 2.  **Clone the repository:**
     ```bash
-    git clone https://your-repository-url/ReviewTracker.git
+    git clone https://github.com/devbybahman/ReviewTrackerApp-Windows.git
     ```
 3.  **Open the solution:**
     -   Navigate to the cloned directory.
