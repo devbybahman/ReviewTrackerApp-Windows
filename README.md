@@ -6,7 +6,8 @@ A simple, minimalist desktop application designed to help you consistently revie
     TIP: Take a screenshot of your application and save it in your project folder. 
     Then, replace 'assets/screenshot.png' with the actual path to your image.
 -->
-<img width="719" height="623" alt="image" src="https://github.com/user-attachments/assets/6f35b6cd-b2ed-4e15-bc41-1899154b7d48" />
+<img width="743" height="643" alt="image" src="https://github.com/user-attachments/assets/3f24a24e-0989-4937-aca8-13707501ad74" />
+
 
 ## The Problem It Solves
 
