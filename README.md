@@ -84,4 +84,4 @@ This tool is functional, but there's always room for improvement. Potential futu
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE]](https://github.com/devbybahman/ReviewTrackerApp-Windows/blob/main/LICENSE.txt) file for details.
